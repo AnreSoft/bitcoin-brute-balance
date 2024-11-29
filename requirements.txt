@@ -1,0 +1,4 @@
+bech32
+starkbank-ecdsa
+psutil
+colorlog
